@@ -15,7 +15,7 @@ JavaScript and modern frontend and backend technologies.
 - Express.js
 - MongoDB
 - SQL
-- Python
+- C++
 - Java
 - Git
 
